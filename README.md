@@ -1,1 +1,1 @@
-# SigMASTERY
+# SigMA
